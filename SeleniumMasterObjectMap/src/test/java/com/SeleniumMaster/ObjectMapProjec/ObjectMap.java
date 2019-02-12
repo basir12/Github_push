@@ -9,7 +9,7 @@ import org.openqa.selenium.By;
 
 public class ObjectMap {
   
-  //property file and provide the locator information to the test.
+  ///property file and provide the locator information to the test.
   
   Properties properties;
   
