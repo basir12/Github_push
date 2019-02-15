@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.SeleniumMaster.ObjectMapProjec.ObjectMapLoginTest">
+      <class name="com.SeleniumMaster.ObjectMapProjec.UntitledTestCase">
         <methods>
-          <include name="login"/>
+          <include name="testUntitledTestCase"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.SeleniumMaster.ObjectMapProjec.ObjectMapLoginTest -->
+      </class> <!-- com.SeleniumMaster.ObjectMapProjec.UntitledTestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

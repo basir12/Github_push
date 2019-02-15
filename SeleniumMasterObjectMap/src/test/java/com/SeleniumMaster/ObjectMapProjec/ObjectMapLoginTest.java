@@ -37,14 +37,14 @@ public class ObjectMapLoginTest {
 		// Get the username element
 		WebElement username = driver.findElement(objmap.getLocator("Username_field"));
 		username.clear();
-		username.sendKeys("mina.wr@gmail.com");
+		username.sendKeys("mna.w@gmail.com");
 
 		driver.findElement(objmap.getLocator("Next_Field")).click();
 		Thread.sleep(3 * 1000);
 
 		// Get the password element
 		WebElement password = driver.findElement(objmap.getLocator("Password_field"));
-		password.sendKeys("basir");
+		password.sendKeys("basee12");
 
 		Thread.sleep(3000);
 		// Click on the login button
